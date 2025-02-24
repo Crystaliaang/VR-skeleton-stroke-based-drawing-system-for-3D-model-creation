@@ -16,7 +16,7 @@ The VR drawing system integrates features such as stroke beautification, interse
 
 A primary focus of this system is to bridge the gap between freehand sketching and structured 3D modeling by offering tools that aid in intuitiveness and usability. Unlike traditional 3D modeling software, which requires extensive expertise, this application is designed to be intuitive for beginners while still providing advanced functionalities. The system allows users to export sketches and final meshes in .obj format for further refinement in professional 3D software.
 
-By providing an immersive and interactive approach to 3D model creation, this system enhances the creative process, making virtual reality a powerful tool for conceptual design, rapid prototyping, and artistic exploration.
+By providing an immersive and interactive approach to 3D model creation, this system enhances the creative process,conceptual design, rapid prototyping, and artistic exploration.
 
 *The source code for this project will be uploaded after the thesis defense is completed.
 
