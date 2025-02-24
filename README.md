@@ -1,2 +1,14 @@
 # VR-skeleton-stroke-based-drawing-system-for-3D-model-creation
 Master Thesis
+
+The application, designed as a VR-based freehand drawing system, enables users to sketch skeleton-based 3D models directly in Virtual Reality. It provides an intuitive interface that transforms hand-drawn strokes into real-time 3D models, allowing users to interact with and edit their sketches dynamically. Developed for the Meta Quest 3, the system leverages Unity, C#, and VR controller inputs to enhance the user’s creative experience.
+
+It is a VR application developed for Meta Quest 3 using Unity, C#, and VR controller inputs (XR Toolkit).
+
+The VR drawing system integrates features such as stroke beautification, intersection detection, clustering, and real-time mesh generation, ensuring precise and accurate 3D model creation. Users can modify strokes, adjust line thickness, snap junctions, preview of the model, generate the mesh and view the wireframe of the generated model. Additionally, the KD-tree-based intersection detection optimizes real-time stroke interactions.
+
+A primary focus of this system is to bridge the gap between freehand sketching and structured 3D modeling by offering tools that aid in intuitiveness and usability. Unlike traditional 3D modeling software, which requires extensive expertise, this application is designed to be intuitive for beginners while still providing advanced functionalities. The system allows users to export sketches and final meshes in .obj format for further refinement in professional 3D software.
+
+By providing an immersive and interactive approach to 3D model creation, this system enhances the creative process, making virtual reality a powerful tool for conceptual design, rapid prototyping, and artistic exploration.
+
+*The source code for this project will be uploaded after the thesis defense is completed.
