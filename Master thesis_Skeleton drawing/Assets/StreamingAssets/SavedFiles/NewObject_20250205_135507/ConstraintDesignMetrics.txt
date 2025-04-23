@@ -1,0 +1,14 @@
+# Constraint Design Metrics file generated
+Sketch Time: 15.8059 seconds
+   
+Sketched lines drawn: 0
+Undo lines drawn: 0
+Medium lines drawn: 0
+Preview times button pressed: 0
+Moved a point: 0
+Changed Radius: 0
+Generated Mesh: 0
+Saw Wireframe: 0
+Cleared Sketch: 0
+Cleared Mesh: 0
+Mirroring used: 0
